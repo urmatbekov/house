@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
 import {Carousel} from "react-bootstrap";
+import './carousel.css'
 
 class CarouselSelf extends Component {
 
@@ -13,7 +14,7 @@ class CarouselSelf extends Component {
 
     render() {
         return (
-            <Carousel activeIndex={this.state.index} onSelect={this.handleSelect}>
+            <Carousel className="shadow-self" activeIndex={this.state.index} onSelect={this.handleSelect}>
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
@@ -31,7 +32,6 @@ class CarouselSelf extends Component {
                         src="https://m01.tury.ru/hotel/89/8933326/8972611_1600.jpg"
                         alt="Second slide"
                     />
-
                     <Carousel.Caption>
                         <h3>Second slide label</h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
@@ -43,7 +43,6 @@ class CarouselSelf extends Component {
                         src="https://m01.tury.ru/hotel/89/8933326/8972611_1600.jpg"
                         alt="Third slide"
                     />
-
                     <Carousel.Caption>
                         <h3>Third slide label</h3>
                         <p>
