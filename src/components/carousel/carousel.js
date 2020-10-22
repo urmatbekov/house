@@ -17,7 +17,7 @@ class CarouselSelf extends Component {
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src="https://m01.tury.ru/hotel/89/8933326/8972611_1600.jpg"
+                        src="https://kartinkinaden.ru/uploads/posts/2020-07/1593700172_9-p-foni-s-domami-14.jpg"
                         alt="First slide"
                     />
                     <Carousel.Caption>
@@ -28,7 +28,7 @@ class CarouselSelf extends Component {
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src="https://m01.tury.ru/hotel/89/8933326/8972611_1600.jpg"
+                        src="https://million-wallpapers.ru/wallpapers/2/0/466093634629779/roskoshnyj-dom.jpg"
                         alt="Second slide"
                     />
 
@@ -40,7 +40,7 @@ class CarouselSelf extends Component {
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src="https://m01.tury.ru/hotel/89/8933326/8972611_1600.jpg"
+                        src="https://i.ytimg.com/vi/pcqeAQEzBYA/maxresdefault.jpg"
                         alt="Third slide"
                     />
 
