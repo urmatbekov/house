@@ -2,6 +2,12 @@
     display: flex;
     list-style: none;
 }
+.navbar {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    z-index: 10;
+}
 
 .logo {
     order: -1;
@@ -44,3 +50,4 @@
     border-left:1px solid white ;
     padding-left:10px ;
 }
+
