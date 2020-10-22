@@ -6,7 +6,7 @@ class Header extends Component {
         return (
             <header>
                 <nav className="navbar">
-                    <div className="container">
+                    <div className="container nav-container">
                         <ul className="nav-items">
                             <li>
                                 <a href="#">О нас</a>

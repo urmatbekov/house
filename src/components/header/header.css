@@ -9,7 +9,7 @@
 }
 
 .navbar li {
-    padding: 10px;
+    padding: 0 15px;
 }
 
 .navbar li a{
@@ -28,4 +28,19 @@
 
 .navbar li:hover .line {
     width: 100%;
+}
+.nav-settings li:hover a {
+    color: #ff8562;
+}
+
+.navbar .nav-container {
+    justify-content: initial;
+}
+.nav-items {
+    margin-left: auto;
+    padding-right: 10px;
+}
+.nav-settings {
+    border-left:1px solid white ;
+    padding-left:10px ;
 }
