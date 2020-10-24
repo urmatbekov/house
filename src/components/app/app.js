@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import Header from "../header";
 import CarouselSelf from "../carousel";
+import Status from "../status/status";
 
 class App extends Component {
     render() {
@@ -8,6 +9,7 @@ class App extends Component {
             <div>
                 <Header/>
                 <CarouselSelf/>
+                <Status/>
             </div>
         );
     }

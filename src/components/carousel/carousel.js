@@ -18,36 +18,28 @@ class CarouselSelf extends Component {
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src="https://m01.tury.ru/hotel/89/8933326/8972611_1600.jpg"
+                        src="https://i.pinimg.com/originals/35/d3/d4/35d3d4a48698437b0bbbeb99f34eced3.jpg"
                         alt="First slide"
                     />
                     <Carousel.Caption>
-                        <h3>First slide label</h3>
-                        <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src="https://m01.tury.ru/hotel/89/8933326/8972611_1600.jpg"
+                        src="https://w-dog.ru/wallpapers/2/13/329625907856302/dom-cg-zhivopis.jpg"
                         alt="Second slide"
                     />
                     <Carousel.Caption>
-                        <h3>Second slide label</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src="https://m01.tury.ru/hotel/89/8933326/8972611_1600.jpg"
+                        src="https://img2.goodfon.ru/wallpaper/nbig/b/1d/dom-osobnyak-gazon-trava-kusty-7012.jpg"
                         alt="Third slide"
                     />
                     <Carousel.Caption>
-                        <h3>Third slide label</h3>
-                        <p>
-                            Praesent commodo cursus magna, vel scelerisque nisl consectetur.
-                        </p>
                     </Carousel.Caption>
                 </Carousel.Item>
             </Carousel>
