@@ -1,11 +1,14 @@
 import React, {Component} from 'react';
 import './white.css'
 
-class Whitet extends Component {
+class White extends Component {
     render() {
         return (
             <div>
+
                 <div className="white">
+                    <div className="margin-bot">
+                    </div>
                     <div className="obst ">
                         <img className="margin-left"
                              src="https://static.tildacdn.com/tild6134-3436-4561-b238-663537343431/Frame_2.svg"
@@ -28,6 +31,7 @@ class Whitet extends Component {
                              alt="foto3"/>
                         <div className="number ml-3">7</div>
                         <p className="p">ЛЕТ НовостиА РЫНКЕ</p>
+
                     </div>
 
                 </div>
@@ -36,4 +40,4 @@ class Whitet extends Component {
     }
 }
 
-export default Whitet;
+export default White;

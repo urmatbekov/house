@@ -11,15 +11,23 @@
 }
 .number{
     width: 30%;
-    font-size: 60px;
+    font-size: 50px;
+    color: black;
 }
 .p{
     position: absolute;
     z-index: 33;
-    left: 50%;
+    left: 60%;
     top: 60%;
     font-size: 20px;
+    color: black;
+
 }
 .margin-left{
     margin-left:80px;
+}
+.margin-bot{
+   height: 100px;
+    background-color: white;
+
 }
