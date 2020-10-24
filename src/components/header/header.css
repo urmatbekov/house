@@ -1,6 +1,7 @@
 .nav-items, .nav-settings {
     display: flex;
     list-style: none;
+    margin-bottom: 0;
 }
 .navbar {
     position: absolute;
