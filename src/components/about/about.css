@@ -1,0 +1,21 @@
+.text-my {
+    color: black;
+}
+
+.th-atom {
+    color: #4c4d4f;
+    font-size: 18px;
+    font-family: 'Gotha', Arial, sans-serif;
+    line-height: 1.55;
+    font-weight: 300;
+    background-position: center center;
+    border-color: transparent;
+    border-style: solid;
+}
+.th-elem {
+    color: #4c4d4f;
+    z-index: 7;
+    top: 370px;
+    left: calc(50% - 600px + 20px);
+    width: 130px;
+}

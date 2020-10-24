@@ -2,6 +2,7 @@ import React, {Component} from 'react';
 import "./atom.css";
 
 class Atom extends Component {
+
     render() {
         return (
             <div>
@@ -18,14 +19,14 @@ class Atom extends Component {
                         <img
                             className='th-atom-img'
                             src='https://static.tildacdn.com/tild3234-3061-4935-b939-333264343438/Frame_4.svg'/>
-                        <p className="th-text d-inline">№1</p>
+                        <p className="th-text d-inline">1</p>
                         <p className="th-text1 d-inline">ВЫБОР ГОДА 2019</p>
                     </div>
                     <div className='th-atom'>
                         <img
                             className='th-atom-img'
                             src='https://static.tildacdn.com/tild3661-6166-4133-b632-353033343638/Frame_3.svg'/>
-                        <p className="th-text d-inline">7</p>
+                        <p className="th-text d-inline">№7</p>
                         <p className="th-text1 d-inline">ЛЕТ НА РЫНКЕ</p>
                     </div>
                 </div>
