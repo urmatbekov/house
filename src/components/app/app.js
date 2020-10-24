@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import Header from "../header";
 import CarouselSelf from "../carousel";
+
 import Atom from "../atom/atom";
 import About from "../about/about";
 
