@@ -1,8 +1,8 @@
 import React, {Component} from 'react';
 import Header from "../header";
 import CarouselSelf from "../carousel";
-
 import Atom from "../atom/atom";
+import About from "../about/about";
 
 
 class App extends Component {
@@ -12,6 +12,7 @@ class App extends Component {
                 <Header/>
                 <CarouselSelf/>
                 <Atom/>
+                <About/>
             </div>
         );
     }

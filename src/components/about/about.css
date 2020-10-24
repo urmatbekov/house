@@ -1,0 +1,24 @@
+.about {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 900px;
+    height: 600px;
+    margin-left: 300px;
+    position: relative;
+}
+
+.about p {
+    width: 330px;
+    height: 220px;
+    color: black;
+}
+
+.about__img img {
+    position: absolute;
+    top: 170px;
+    right: 10px;
+    margin-left: 100px;
+    width: 780px;
+    height: 320px;
+}
