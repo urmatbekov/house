@@ -1,7 +1,9 @@
 import React, {Component} from 'react';
 import Header from "../header";
 import CarouselSelf from "../carousel";
-import White from "../white/white";
+
+import Atom from "../atom/atom";
+
 
 class App extends Component {
     render() {
@@ -9,7 +11,7 @@ class App extends Component {
             <div>
                 <Header/>
                 <CarouselSelf/>
-                <White/>
+                <Atom/>
             </div>
         );
     }
