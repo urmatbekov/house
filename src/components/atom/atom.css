@@ -1,23 +1,27 @@
 .my-atom {
     position: relative;
     top: 120px;
-    padding: initial;
 }
 
 .th-atom-img {
-    width: 120px;
+    width: 90px;
 }
-
+.th-elem1, .th-elem2 {
+    position: relative;
+    right: 90px;
+}
 .th-text {
     font-size: 45px;
     position: relative;
+    top: -90px;
+    left: 93px;
 }
 
 .th-text1 {
     font-size: 20px;
     position: relative;
-    top: 30px;
-
+    top: -110px;
+    left: 93px;
 }
 
 .th-text, .th-text1 {
