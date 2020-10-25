@@ -2,9 +2,6 @@
     position: relative;
     top: 120px;
     padding: initial;
-    margin: auto;
-    display: table-cell;
-    vertical-align: middle;
 }
 
 .th-atom-img {
@@ -13,16 +10,14 @@
 
 .th-text {
     font-size: 45px;
-    position: absolute;
-    top: 15px;
-    margin-left: 15px;
+    position: relative;
 }
 
 .th-text1 {
     font-size: 20px;
-    position: absolute;
-    top: 70px;
-    margin-left: 15px;
+    position: relative;
+    top: 30px;
+
 }
 
 .th-text, .th-text1 {
