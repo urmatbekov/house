@@ -1,5 +1,11 @@
-p {
+.blog p {
     color: black;
+}
+
+.blog {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
 }
 
 .my-container1 {
@@ -15,7 +21,8 @@ p {
 }
 
 .news-container {
-    width: 380px;
+    box-sizing: border-box;
+    width: 350px;
     height: 540px;
     background-color: #f3f5f5;
     border-radius: 3%;
@@ -42,8 +49,4 @@ h2 {
 
 .t778_des {
     margin: 9px;
-}
-.blog {
-    box-sizing: border-box;
-
 }
