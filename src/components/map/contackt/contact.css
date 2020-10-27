@@ -14,7 +14,7 @@
 
 }
 
- .text-contact, p, span {
+ .text-contact, p,.contact span {
     color: black;
      padding: 8px;
 }
