@@ -1,9 +1,11 @@
 import React, {Component} from 'react';
 import Header from "../header";
 import CarouselSelf from "../carousel";
-import About from '../about/about';
+
 import Atom from "../atom/atom";
-import News from "../news/news";
+import About from "../about";
+import News from "../news";
+
 
 
 class App extends Component {
