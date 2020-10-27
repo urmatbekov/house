@@ -1,9 +1,11 @@
 import React, {Component} from 'react';
+
 import "./about.css";
 
 class About extends Component {
     render() {
         return (
+
             <div className="container my-container">
                 <h2 className="th-elem ">О нас </h2>
                 <div className="th-atom float-left">

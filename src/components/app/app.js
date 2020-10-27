@@ -3,9 +3,11 @@ import Header from "../header";
 import CarouselSelf from "../carousel";
 
 import Atom from "../atom/atom";
+
 import About from "../about";
 import News from "../news";
 import Map from "../map";
+
 
 
 class App extends Component {
