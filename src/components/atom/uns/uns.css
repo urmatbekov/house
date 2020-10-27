@@ -1,11 +1,12 @@
 .uns{
 display: inline-flex;
     position: relative;
-    margin-left: 101px;
+    margin-left: 21rem;
     margin-top: 31px;
 }
 .p{
 color: black;
+    white-space: pre;
     display: inline;
     font-size: 18px;
     color: #4c4d4f;
@@ -20,6 +21,8 @@ color: black;
 
 }
 .img{
-    width: 620px;
+    width: 700px;
     height: 350px;
+    display: block;
+
 }

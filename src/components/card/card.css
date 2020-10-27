@@ -1,6 +1,11 @@
 .card{
     width: 18rem;
+    height: 41px;
+    margin-left: 31px;
 }
 p{
     color: black;
+}
+.ml{
+   padding-left: 31rem;
 }

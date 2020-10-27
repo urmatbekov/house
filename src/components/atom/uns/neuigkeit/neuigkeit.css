@@ -1,11 +1,10 @@
 .card{
-    width: 18rem;
+    width: 20rem;
+    height: 25rem;
 }
 p{
     color: black;
 }
-.ht{
-    display: inline-flex;
-    margin-left: 8rem;
-    margin-top: 5rem;
+.ht2{
+   display: inline-flex;
 }

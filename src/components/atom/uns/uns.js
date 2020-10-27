@@ -4,7 +4,7 @@ import './uns.css'
 class Uns extends Component {
     render() {
         return (
-            <div className="container">
+            <div className="">
                 <br/><br/><br/><br/><br/><br/><br/>
                 <div className="uns">
          <h2 className="h2">

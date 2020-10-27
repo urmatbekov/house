@@ -6,7 +6,7 @@ class Card extends Component {
         return (
             <div>
 
-                <div className="card">
+                <div className="card ml">
                     <img src="http://tofight.ru/wp-content/uploads/2017/03/mma_ufc_fx7_12.jpg" className="card-img-top" alt="foto"/>
                     <div className="card-body">
                         <p className="card-text">Some quick example text to build on the card title and make up the
