@@ -5,7 +5,7 @@ import NewsItem from "./news-item";
 class News extends Component {
     render() {
         return (
-            <div className="container my-container1">
+            <div className="container">
                 <h2 className="news">Новости</h2>
                 <div className="blog">
                     <NewsItem/>
