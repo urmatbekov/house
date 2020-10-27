@@ -1,7 +1,10 @@
 .text-my {
     color: black;
 }
-
+.my-container{
+    position: relative;
+    top: 200px;
+}
 .th-atom {
     color: #4c4d4f;
     font-size: 18px;
@@ -16,6 +19,12 @@
     color: #4c4d4f;
     z-index: 7;
     top: 370px;
-    left: calc(50% - 600px + 20px);
     width: 130px;
+    font-size: 45px;
+}
+.th-atom-img1 {
+    width: 700px;
+    height: 300px;
+    position: relative;
+    top: -50px;
 }

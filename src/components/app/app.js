@@ -3,6 +3,7 @@ import Header from "../header";
 import CarouselSelf from "../carousel";
 import About from '../about/about';
 import Atom from "../atom/atom";
+import News from "../news/news";
 
 
 class App extends Component {
@@ -13,6 +14,7 @@ class App extends Component {
                 <CarouselSelf/>
                 <Atom/>
                 <About/>
+                <News/>
             </div>
         );
     }
