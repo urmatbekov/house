@@ -11,6 +11,7 @@ class News extends Component {
                     <NewsItem/>
                     <NewsItem/>
                     <NewsItem/>
+
                 </div>
             </div>
         );

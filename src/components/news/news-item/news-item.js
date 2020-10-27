@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import './../news.css'
 
 class NewsItem extends Component {
     render() {
@@ -18,6 +19,7 @@ class NewsItem extends Component {
                     бизнес-проектов в
                     Кыргызской Республике.
                 </div>
+
             </div>
         );
     }
