@@ -1,0 +1,12 @@
+.position {
+    width: 450px;
+    height: 370px;
+    background-color: azure;
+    color: #f3f5f5;
+    position: absolute;
+    left: 17rem;
+    top: 13rem;
+}
+.a {
+position: relative;
+}
