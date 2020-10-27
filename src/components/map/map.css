@@ -1,0 +1,37 @@
+.map-container {
+    position: relative;
+    overflow: auto;
+    margin-top: 50px;
+    display: flex;
+}
+
+.contact {
+    position: absolute;
+    width:420px;
+    height: 388px;
+    background-color: #fff;
+    padding: 60px;
+    box-sizing: border-box;
+    top: 100px;
+    left: 380px;
+}
+.contact h4 {
+    margin-bottom: 20px;
+}
+.contact h2 {
+    margin-bottom: 20px;
+}
+.contact h2,h4 {
+    color: black;
+    font-weight: bold;
+}
+.contact p {
+    font-size: 18px;
+    color: black;
+}
+
+.contact img {
+    width: 30px;
+    height: 30px;
+    margin-left: 5px;
+}
