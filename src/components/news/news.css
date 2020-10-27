@@ -24,6 +24,11 @@
     color: #4c4d4f;
     line-height: 1.5;
     font-family: 'Gotha', Arial, sans-serif;
+    transition: box-shadow 0.2s;
+}
+
+.news-container:hover {
+    box-shadow: 0 10px 40px 0 rgba(0, 0, 0, 0.10);
 }
 
 .img-news {
