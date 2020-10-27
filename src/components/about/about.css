@@ -2,8 +2,7 @@
     color: black;
 }
 .my-container{
-    position: relative;
-    top: 200px;
+    overflow: auto;
 }
 .th-atom {
     color: #4c4d4f;
