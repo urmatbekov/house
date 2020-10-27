@@ -9,16 +9,15 @@
 }
 
 .news {
-    position: relative;
-    top: 0;
+    margin-top: 0;
     font-size: 50px;
-    left: -0px
+
 }
 
 .news-container {
     box-sizing: border-box;
     width: 350px;
-    height: 540px;
+    height: 600px;
     background-color: #f3f5f5;
     border-radius: 3%;
     color: #4c4d4f;

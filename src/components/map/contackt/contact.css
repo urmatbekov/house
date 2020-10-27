@@ -1,23 +1,25 @@
-.contact {
+.map-container {
     position: relative;
-    top: 600px;
-    right: 300px;
+    margin-top: 50px;
+
+}
+
+.contact {
+    position: absolute;
+    top: 70px;
+    left: 400px;
     width: 500px;
     height: 400px;
     background-color: white;
-    box-sizing: border-box;
     padding-top: 50px;
     padding-left: 50px;
 }
 
-.text-contact {
-
-}
-
- .text-contact, p,.contact span {
+.text-contact, p, .contact span {
     color: black;
-     padding: 8px;
+    padding: 8px;
 }
+
 p, span:hover {
     cursor: pointer;
 }
