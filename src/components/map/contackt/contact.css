@@ -1,0 +1,28 @@
+.contact {
+    position: relative;
+    top: 600px;
+    right: 300px;
+    width: 500px;
+    height: 400px;
+    background-color: white;
+    box-sizing: border-box;
+    padding-top: 50px;
+    padding-left: 50px;
+}
+
+.text-contact {
+
+}
+
+ .text-contact, p, span {
+    color: black;
+     padding: 8px;
+}
+p, span:hover {
+    cursor: pointer;
+}
+
+.inst-logo {
+    width: 30px;
+    height: 30px;
+}
