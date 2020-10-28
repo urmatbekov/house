@@ -23,8 +23,8 @@ class CarouselSelf extends Component {
                     />
 
                     <Carousel.Caption>
-                        <h3>First slide label</h3>
-                        <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+                        <h3>Александрия</h3>
+                        <p>Дом для счастливых семей</p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
@@ -36,8 +36,8 @@ class CarouselSelf extends Component {
 
 
                     <Carousel.Caption>
-                        <h3>First slide label</h3>
-                        <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+                        <h3>Асанбай Ордо</h3>
+                        <p>Там где воздух чище</p>
                     </Carousel.Caption>
                 </Carousel.Item>
 
@@ -49,8 +49,8 @@ class CarouselSelf extends Component {
                         alt="Second slide"
                     />
                     <Carousel.Caption>
-                        <h3>First slide label</h3>
-                        <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+                        <h3>Эл Классик</h3>
+                        <p>Полезные метре без переплат</p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
@@ -60,8 +60,8 @@ class CarouselSelf extends Component {
                         alt="Second slide"
                     />
                     <Carousel.Caption>
-                        <h3>Second slide label</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                        <h3>Италиянский квартал</h3>
+                        <p>Будь в центре жизни</p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
@@ -71,9 +71,9 @@ class CarouselSelf extends Component {
                         alt="Third slide"
                     />
                     <Carousel.Caption>
-                        <h3>Third slide label</h3>
+                        <h3>New York City</h3>
                         <p>
-                            Praesent commodo cursus magna, vel scelerisque nisl consectetur.
+                            Город твоих возможностей.
                         </p>
                     </Carousel.Caption>
                 </Carousel.Item>
