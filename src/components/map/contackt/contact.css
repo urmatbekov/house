@@ -6,9 +6,8 @@
 
 .contact {
     position: absolute;
-    top: 70px;
-    left: 400px;
-    width: 500px;
+    margin: 250px 240px;
+    width: 400px;
     height: 400px;
     background-color: white;
     padding-top: 50px;

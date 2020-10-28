@@ -4,20 +4,20 @@ import "./about.css";
 class About extends Component {
     render() {
         return (
-            <div className="container my-container">
-                <h2 className="th-elem ">О нас </h2>
-                <div className="th-atom float-left">
-                    Компания Elite House основана в 2013 году<br/>
-                    и является одним из лидеров строительной <br/>
-                    отрасли страны. Сегодня Elite House<br/>
-                    реализует проекты жилой и коммерческой <br/>
-                    недвижимости, отличающихся высоким <br/>
-                    качеством, стильной архитектурой,<br/>
-                    современными инновациями.
+            <div className="my-container d-flex justify-content-between">
+                <div className="">
+                    <strong className='th-elem'>О нас</strong>
+                    <div className="th-atom">
+                        Компания Elite House основана в 2013 году
+                        отрасли страны. Сегодня Elite House
+                        реализует проекты жилой и коммерческой
+                        недвижимости, отличающихся высоким
+                        качеством, стильной архитектурой,
+                        современными инновациями.
+                    </div>
                 </div>
-                <div className='container th-elem-img1'>
-                    <img className="th-atom-img1 float-right" src="https://static.tildacdn.com/tild6265-6630-4638-a434-343938353661/1.jpg"/>
-                </div>
+                <img className='th-atom-img1'
+                     src="https://static.tildacdn.com/tild6265-6630-4638-a434-343938353661/1.jpg"/>
             </div>
         );
     }

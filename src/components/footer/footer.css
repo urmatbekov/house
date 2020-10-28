@@ -1,0 +1,43 @@
+.footer {
+    background-color: #212529;
+    color: white;
+    width: 100%;
+    margin-top: 0;
+
+}
+
+.th-footer {
+    margin-top: 50px;
+
+}
+
+.th-footer h2{
+    font-size: 21px;
+    color: #d9d9d9;
+    margin-left: 8px;
+    font-family: 'Gotha', Arial, sans-serif;
+    line-height: 1.55;
+    font-weight: 300;
+    background-position: center center;
+    border-color: transparent;
+    border-style: solid;
+}
+.th-footer p {
+    color: #d9d9d9;
+    font-size: 15px;
+    font-family: 'Gotha', Arial, sans-serif;
+    line-height: 1.55;
+    font-weight: 300;
+    background-position: center center;
+    border-color: transparent;
+    border-style: solid;
+}
+.th-footer a {
+    color: #d9d9d9;
+}
+.th-footer .th-atom-img {
+    position: relative;
+    top: 130px;
+    left: 70%;
+    width: 150px;
+}

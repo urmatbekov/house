@@ -18,7 +18,7 @@ class CarouselSelf extends Component {
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src="https://kartinkinaden.ru/uploads/posts/2020-07/1593700172_9-p-foni-s-domami-14.jpg"
+                        src="https://static.tildacdn.com/tild3839-3239-4135-b762-613666323935/_13_2.jpg"
                         alt="First slide"
                     />
 
@@ -30,7 +30,7 @@ class CarouselSelf extends Component {
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src="https://img1.badfon.ru/original/3264x1942/4/a9/kanada-dom-fairfield-victoria-5290.jpg"
+                        src="https://static.tildacdn.com/tild3662-3435-4165-b465-633131343762/17.jpg"
                         alt="Second slide"
                     />
 
@@ -45,7 +45,7 @@ class CarouselSelf extends Component {
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src="https://million-wallpapers.ru/wallpapers/2/0/466093634629779/roskoshnyj-dom.jpg"
+                        src="https://static.tildacdn.com/tild3264-3064-4536-b432-366362663666/___9.jpg"
                         alt="Second slide"
                     />
                     <Carousel.Caption>
@@ -56,7 +56,7 @@ class CarouselSelf extends Component {
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src="https://i.ytimg.com/vi/e-Lp7kQWaNg/maxresdefault.jpg"
+                        src="https://static.tildacdn.com/tild6230-6263-4234-b866-616535353966/photo.jpg"
                         alt="Second slide"
                     />
                     <Carousel.Caption>
@@ -67,7 +67,7 @@ class CarouselSelf extends Component {
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src="https://i.ytimg.com/vi/pcqeAQEzBYA/maxresdefault.jpg"
+                        src="https://static.tildacdn.com/tild6566-3333-4631-b833-633663386263/8.jpg"
                         alt="Third slide"
                     />
                     <Carousel.Caption>

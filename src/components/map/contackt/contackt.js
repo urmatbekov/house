@@ -7,7 +7,7 @@ class Contackt extends Component {
             <div>
                 <div className='container contact'>
                     <h2 className='text-contact'>Контакты</h2>
-                    <p>0 (555) 555-555</p>
+                    <p><strong>0 (555) 555-555</strong></p>
                     <p>Головной офис - г.Бишкек, ул. Абдрахманова / ул. Токтогула, 170/ 1, бизнес-центр «ОРДО»,
                         7-этаж.</p>
                     <span>

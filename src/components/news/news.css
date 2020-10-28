@@ -1,3 +1,6 @@
+.th-news {
+    margin-top: 50px;
+}
 .blog p {
     color: black;
 }
@@ -16,7 +19,7 @@
 
 .news-container {
     box-sizing: border-box;
-    width: 350px;
+    width: 340px;
     height: 600px;
     background-color: #f3f5f5;
     border-radius: 3%;
@@ -32,6 +35,9 @@
     border-top-left-radius: 4%;
     border-top-right-radius: 4%;
 }
+.img-news3 {
+    height: 250px;
+}
 
 h2 {
     color: black;
@@ -41,9 +47,10 @@ h2 {
 .th-item {
     margin: 9px;
     margin-top: 8px;
-
 }
-
+.th-item3 {
+    margin-top: 10px;
+}
 .t778_des {
     margin: 9px;
 }
