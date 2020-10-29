@@ -5,27 +5,31 @@ const FooterPage = () => {
     return (
         <footer className='footer'>
             <div className='container d-flex justify-content-between'>
-                <div className='th-footer'>
+                <div className='th-footer footer-about'>
                     <h2>О нас</h2>
-                    <p>Новости</p>
-                    <p>Забота о клиента</p>
-                    <p>Управлающая компания</p>
-                    <p>Способы оплаты</p>
-                    <p>Агентская программа</p>
-                    <p>Инвесторам</p>
-                    <p>Baster.kg</p>
-                    <p>Вакансии</p>
+                    <ul>
+                        <li>Новости</li>
+                        <li>Забота о клиента</li>
+                        <li>Управлающая компания</li>
+                        <li>Способы оплаты</li>
+                        <li>Агентская программа</li>
+                        <li>Инвесторам</li>
+                        <li>Baster.kg</li>
+                        <li>Вакансии</li>
+                    </ul>
                 </div>
-                <div className='th-footer'>
+                <div className='th-footer footer-objects'>
                     <h2>Обьекты</h2>
-                    <p>Александрия</p>
-                    <p>Асанбай Ордо</p>
-                    <p>Италиянский квартал</p>
-                    <p>Континенталь</p>
-                    <p>Эл Классик</p>
-                    <p>Эл Классик плюс</p>
-                    <p>Коммерческая недвижимость</p>
-                    <p>New York City</p>
+                    <ul>
+                        <li>Александрия</li>
+                        <li>Асанбай Ордо</li>
+                        <li>Италиянский квартал</li>
+                        <li>Континенталь</li>
+                        <li>Эл Классик</li>
+                        <li>Эл Классик плюс</li>
+                        <li>Коммерческая недвижимость</li>
+                        <li>New York City</li>
+                    </ul>
                 </div>
                 <div className='th-footer'>
                     <h2>Контакты</h2>

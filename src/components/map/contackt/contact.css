@@ -6,12 +6,11 @@
 
 .contact {
     position: absolute;
-    margin: 250px 240px;
     width: 400px;
     height: 400px;
     background-color: white;
-    padding-top: 50px;
-    padding-left: 50px;
+    left: 400px;
+    top: 250px;
 }
 
 .text-contact, p, .contact span {

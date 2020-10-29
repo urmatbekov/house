@@ -14,7 +14,6 @@
 .th-footer h2{
     font-size: 21px;
     color: #d9d9d9;
-    margin-left: 8px;
     font-family: 'Gotha', Arial, sans-serif;
     line-height: 1.55;
     font-weight: 300;
@@ -22,7 +21,7 @@
     border-color: transparent;
     border-style: solid;
 }
-.th-footer p {
+.th-footer li {
     color: #d9d9d9;
     font-size: 15px;
     font-family: 'Gotha', Arial, sans-serif;
@@ -36,8 +35,15 @@
     color: #d9d9d9;
 }
 .th-footer .th-atom-img {
-    position: relative;
     top: 130px;
     left: 70%;
     width: 150px;
+}
+.footer-about ul, .footer-objects ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-about li,.footer-objects li {
+    padding: 8px 0;
 }
