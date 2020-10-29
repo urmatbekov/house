@@ -1,9 +1,11 @@
 .text-my {
     color: black;
 }
-.my-container{
-    overflow: auto;
+
+.my-container {
+
 }
+
 .th-atom {
     color: #4c4d4f;
     font-size: 18px;
@@ -14,6 +16,7 @@
     border-color: transparent;
     border-style: solid;
 }
+
 .th-elem {
     color: #4c4d4f;
     z-index: 7;
@@ -21,9 +24,7 @@
     width: 130px;
     font-size: 45px;
 }
+
 .th-atom-img1 {
-    width: 700px;
-    height: 300px;
-    position: relative;
-    top: -50px;
+    width: 100%;
 }

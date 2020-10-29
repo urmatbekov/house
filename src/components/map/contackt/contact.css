@@ -1,0 +1,29 @@
+.map-container {
+    position: relative;
+    margin-top: 50px;
+
+}
+
+.contact {
+    position: absolute;
+    margin: 250px 240px;
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    padding-top: 50px;
+    padding-left: 50px;
+}
+
+.text-contact, p, .contact span {
+    color: black;
+    padding: 8px;
+}
+
+p, span:hover {
+    cursor: pointer;
+}
+
+.inst-logo {
+    width: 30px;
+    height: 30px;
+}

@@ -18,26 +18,26 @@ class CarouselSelf extends Component {
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src="https://kartinkinaden.ru/uploads/posts/2020-07/1593700172_9-p-foni-s-domami-14.jpg"
+                        src="https://static.tildacdn.com/tild3839-3239-4135-b762-613666323935/_13_2.jpg"
                         alt="First slide"
                     />
 
                     <Carousel.Caption>
-                        <h3>First slide label</h3>
-                        <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+                        <h3>Александрия</h3>
+                        <p>Дом для счастливых семей</p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src="https://img1.badfon.ru/original/3264x1942/4/a9/kanada-dom-fairfield-victoria-5290.jpg"
+                        src="https://static.tildacdn.com/tild3662-3435-4165-b465-633131343762/17.jpg"
                         alt="Second slide"
                     />
 
 
                     <Carousel.Caption>
-                        <h3>First slide label</h3>
-                        <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+                        <h3>Асанбай Ордо</h3>
+                        <p>Там где воздух чище</p>
                     </Carousel.Caption>
                 </Carousel.Item>
 
@@ -45,35 +45,35 @@ class CarouselSelf extends Component {
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src="https://million-wallpapers.ru/wallpapers/2/0/466093634629779/roskoshnyj-dom.jpg"
+                        src="https://static.tildacdn.com/tild3264-3064-4536-b432-366362663666/___9.jpg"
                         alt="Second slide"
                     />
                     <Carousel.Caption>
-                        <h3>First slide label</h3>
-                        <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+                        <h3>Эл Классик</h3>
+                        <p>Полезные метре без переплат</p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src="https://i.ytimg.com/vi/e-Lp7kQWaNg/maxresdefault.jpg"
+                        src="https://static.tildacdn.com/tild6230-6263-4234-b866-616535353966/photo.jpg"
                         alt="Second slide"
                     />
                     <Carousel.Caption>
-                        <h3>Second slide label</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                        <h3>Италиянский квартал</h3>
+                        <p>Будь в центре жизни</p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src="https://i.ytimg.com/vi/pcqeAQEzBYA/maxresdefault.jpg"
+                        src="https://static.tildacdn.com/tild6566-3333-4631-b833-633663386263/8.jpg"
                         alt="Third slide"
                     />
                     <Carousel.Caption>
-                        <h3>Third slide label</h3>
+                        <h3>New York City</h3>
                         <p>
-                            Praesent commodo cursus magna, vel scelerisque nisl consectetur.
+                            Город твоих возможностей.
                         </p>
                     </Carousel.Caption>
                 </Carousel.Item>
