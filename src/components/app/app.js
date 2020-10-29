@@ -6,6 +6,7 @@ import Atom from "../atom/atom";
 import About from "../about";
 import News from "../news";
 import Map from "../map";
+import Footer from "../footer/footer";
 
 
 class App extends Component {
@@ -18,6 +19,7 @@ class App extends Component {
                 <About/>
                 <News/>
                 <Map/>
+                <Footer/>
 
             </div>
         );
